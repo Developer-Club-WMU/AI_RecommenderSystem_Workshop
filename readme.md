@@ -18,19 +18,14 @@ A modular, educational implementation of a movie recommendation engine using kno
 
 ### Setup
 
-1. **Clone the repository**
-```bash
-git clone <your-repo-url>
-cd movie-recommender
-```
 
-2. **Create virtual environment (recommended)**
+1. **Create virtual environment (recommended)**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies**
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```

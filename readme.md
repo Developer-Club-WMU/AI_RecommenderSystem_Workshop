@@ -14,10 +14,11 @@ A modular, educational implementation of a movie recommendation engine using kno
 
 ### Prerequisites
 - Python 3.6 or higher <= 3.12
-- pip
 
 ### Setup
 
+1. **Miniconda Installer:**
+[miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install)
 
 1. **Create virtual environment (recommended)**
 ```bash
@@ -29,3 +30,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Dataset link:
+
+[Dataset](https://files.grouplens.org/datasets/movielens/ml-100k.zip)
+
